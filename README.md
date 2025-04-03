@@ -1,3 +1,5 @@
+#Hi there 👋, my name is Sri Rama Jaya Adithya Potlacheruvu.
+
 # 💫 About Me:
 👯 I’m looking to collaborate on React and full-stack development<br>🤝 I’m looking for help with advanced full-stack concepts, DSA, Data Science, Cyber Security and best practices<br>🌱 I’m currently learning advanced React concepts like Hooks, Redux, and state management<br>💬 Ask me about React, JavaScript, and building full-stack applications<br>⚡ Fun fact I love watching movies and experimenting with new tech stacks<br>💼 I’m currently looking for a fresher role in the software field or full-stack development. Even though I may not be aware of everything yet, I am confident in acquiring new skills within the timeframe because continuous learning is the key to surviving in the IT industry—it's also my long-term goal.
 
