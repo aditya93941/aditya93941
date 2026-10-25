@@ -36,9 +36,9 @@ Some product source code is private. This profile describes contributions withou
 - Making loading, errors, access and recovery part of the experience.
 - Giving motion a purpose, with readable and accessible alternatives.
 
-## Currently building
+## Current focus
 
-An interactive, hand-drawn portfolio: scroll to walk, click to explore, and discover the engineering behind each project. The portfolio is in progress for **adithyapotlacheruvu.com**.
+I’m currently working on **Centered Health for Women**, contributing across its **web application, backend services and mobile app**. My work connects member-facing and care-team experiences across those platforms.
 
 ## Let’s talk
 
