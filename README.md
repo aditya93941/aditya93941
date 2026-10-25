@@ -1,8 +1,8 @@
-![Adithya Potlacheruvu — Application Developer working across interactive 3D, full-stack platforms and mobile](./assets/adithya-engineering-sketchbook.png)
+![Adithya Potlacheruvu — Application Developer working across interactive 3D, full-stack platforms and mobile](./assets/adithya-engineering-sketchbook-v2.png)
 
-# I build products across 3D, web and mobile.
+# I turn complex product workflows into usable applications.
 
-I’m **Adithya Potlacheruvu**, an **Application Developer at Position²**, based in Bengaluru, India. I work across interactive product visualisation, connected-care applications and learning platforms, connecting the interface people use with the services behind it.
+I’m **Adithya Potlacheruvu**, an **Application Developer at Position²**, based in Bengaluru, India. My work spans **web platforms**, **React Native mobile applications** and **interactive 3D product experiences**. I connect the interface people use with the services behind it, across connected-care, learning and product-visualisation workflows.
 
 My first professional role began in **April 2025**. Since then, I’ve progressed from Trainee Web Developer through Web Developer and Junior Application Developer to my current role.
 

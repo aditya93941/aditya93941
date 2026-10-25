@@ -7,7 +7,7 @@ Adithya Potlacheruvu
 The full name can remain if preferred. The shorter professional name matches the new banner and portfolio while improving scanning.
 
 ## Bio
-Application Developer at Position² | Interactive 3D, full-stack platforms & mobile | React, Three.js, Node.js, React Native
+Application Developer at Position² | Web platforms, mobile apps & interactive 3D | React, Three.js, Node.js, React Native
 
 ## Company
 Position²
@@ -44,3 +44,5 @@ The current AP shield can remain. A clear professional headshot is another optio
 
 ## Review boundaries
 No invented education, impact metrics, project ownership percentages or promotion dates. No GitHub badges/stats/trophies that depend on external image services. Local banner path is case-correct and visible in GitHub-rendered Markdown. Profile-repository publication is separate from the explicitly authorized portfolio push.
+
+Photo review: the supplied black-and-white portrait is suitable, with clear lighting and a clean background. Use a tighter head-and-shoulders crop for circular avatars. No facial editing was requested or performed.
